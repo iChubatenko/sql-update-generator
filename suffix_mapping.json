@@ -1,0 +1,22 @@
+[
+  {
+    "bla": "bla",
+    "foo": "bar",
+    "table": "default"
+  },
+  {
+    "bla": "bla",
+    "foo": "bar",
+    "table": "1"
+  },
+  {
+    "bla": "bla",
+    "foo": "bar",
+    "table": "2"
+  },
+  {
+    "bla": "bla",
+    "foo": "bar",
+    "table": "5"
+  }
+]
