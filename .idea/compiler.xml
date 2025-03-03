@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sql-update-generator" target="1.8" />
+      <module name="sql-update-generator" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
